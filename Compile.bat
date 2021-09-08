@@ -1,0 +1,1 @@
+echo "Compiling the project : %date% : %time%"
